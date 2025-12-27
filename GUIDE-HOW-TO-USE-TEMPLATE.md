@@ -7,6 +7,19 @@
 
 Welcome! This guide will help you understand how to use these project documentation templates for your school projects.
 
+## 📋 Table of Contents
+- [What's Included?](#1)
+- [Getting Started](#2)
+  - [Step 1: Copy the Template](#s1)
+  - [Step 2: Start with PLANNING.md](#s2)
+  - [Step 3: Convert Plan to Tasks (TODO.md)](#s3)
+  - [Step 4: Code & Track Progress](#s4)
+  - [Step 5: Document in README.md](#s5)
+- [The Complete Workflow](#3)
+- [Helpful Tools](#4)
+- [Next Steps](#5)
+
+<a id="1"></a>
 ## 🎯 What's Included?
 This template contains three interconnected files:
 
@@ -14,18 +27,22 @@ This template contains three interconnected files:
 2. **[PLANNING.md](PLANNING.md)** - Your planning document before you start coding
 3. **[TODO.md](TODO.md)** - Your active task list during development
 
+<a id="2"></a>
 ## 🚀 Getting Started
+<a id="s1"></a>
 ### Step 1: Copy the Template
 1. Copy all template files to your project folder
 2. Keep all three files at the root of your project
 
 ---
 
+<a id="s2"></a>
 ### Step 2: Start with PLANNING.md
 Before writing any code, fill out the PLANNING document.
 
 ---
 
+<a id="s3"></a>
 ### Step 3: Convert Plan to Tasks (TODO.md)
 Once your plan is ready, break it down into small, actionable tasks in TODO.md.
 
@@ -54,6 +71,7 @@ To TODO:
 
 ---
 
+<a id="s4"></a>
 ### 💻 Step 4: Code & Track Progress
 
 As you work on your project:
@@ -83,6 +101,7 @@ const fetchData () => {
 
 ---
 
+<a id="s5"></a>
 ### 📝 Step 5: Document in README.md
 
 As features get completed, update your README:
@@ -98,6 +117,7 @@ As features get completed, update your README:
 - Add live demo link
 - Make sure all sections are complete
 
+<a id="3"></a>
 ## 🔄 The Complete Workflow
 
 ```
@@ -119,6 +139,7 @@ As features get completed, update your README:
 ```
 
 
+<a id="4"></a>
 ## 🛠️ Helpful Tools
 ### VS Code Extensions:
 1. **Todo Tree** - Shows all TODO comments from your code
@@ -132,6 +153,7 @@ As features get completed, update your README:
 - Commit with meaningful messages: `git commit -m "feat: add search bar component"`
 - Reference tasks: `git commit -m "fix: navbar bug (TODO.md #5)"`
 
+<a id="5"></a>
 ## 📚 Next Steps
 Ready to start? Here's your checklist:
 

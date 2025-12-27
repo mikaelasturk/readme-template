@@ -14,7 +14,21 @@ Planning template for school projects
 
 > 💡 **Tip:** Convert planning items to tasks in TODO.md as you finalize decisions
 
+## 📋 Table of Contents
+- [Project Overview](#1)
+- [Goals & Requirements](#2)
+- [Design & Wireframes](#3)
+- [Technical Planning](#4)
+- [API Planning](#5)
+- [State Management](#6)
+- [Accessibility Plan](#7)
+- [Timeline & Milestones](#8)
+- [Risks & Challenges](#9)
+- [Resources & References](#10)
+- [Notes & Ideas](#11)
+- [Next Steps](#12)
 
+<a id="1"></a>
 ## 📌 Project Overview
 **Project Name:** [Name]  
 **Timeline:** [Start date] - [End date]  
@@ -24,6 +38,7 @@ Planning template for school projects
 Brief description here
 
 
+<a id="2"></a>
 ## 🎯 Goals & Requirements
 
 ### Core Requirements (Must-Have)
@@ -39,6 +54,7 @@ Brief description here
 What do you want to learn/practice in this project?
 - Technology, concept, or skill to practice
 
+<a id="3"></a>
 ## 🎨 Design & Wireframes
 
 ### Color Palette
@@ -53,14 +69,12 @@ What do you want to learn/practice in this project?
 - Body: [Font name]
 
 ### Design Tools
-- [ ] Figma
-- [ ] Adobe XD
-- [ ] Sketch
-- [ ] Hand-drawn sketches
+- Example
 
 ### Wireframes
 [Add links to Figma/images or describe layout]
 
+<a id="4"></a>
 ## 🏗️ Technical Planning
 ### Tech Stack Decision
 | Technology | Purpose | Why chosen? |
@@ -83,6 +97,7 @@ List all planned components:
 - `LayoutElement` - Purpose and location
 - `LayoutElement` - Purpose and location
 
+<a id="5"></a>
 ## 🔌 API Planning
 ### Endpoints to Use
 | Endpoint | Method | Purpose | Response |
@@ -106,6 +121,7 @@ List all planned components:
 - 404: Display "Not found" page
 - 500: Display "Server error" message
 
+<a id="6"></a>
 ## 📊 State Management
 ### State Planning
 What state do you need to manage?
@@ -127,6 +143,7 @@ Describe how data moves through your app:
 3. API call is made...
 4. Response updates UI...
 
+<a id="7"></a>
 ## ♿ Accessibility Plan (example)
 ### Checklist
 - [ ] Semantic HTML elements
@@ -137,9 +154,10 @@ Describe how data moves through your app:
 - [ ] Focus indicators
 - [ ] Screen reader testing
 
+<a id="8"></a>
 ## 📅 Timeline & Milestones
 ### Week 1: Planning & Setup
-- [x] Project planning
+- [ ] Project planning
 - [ ] Setup repository
 - [ ] Create basic structure
 
@@ -156,6 +174,7 @@ Describe how data moves through your app:
 - [ ] Documentation
 - [ ] Deployment
 
+<a id="9"></a>
 ## 🚨 Risks & Challenges
 ### Potential Blockers
 | Risk | Impact | Mitigation |
@@ -164,11 +183,12 @@ Describe how data moves through your app:
 | Time constraint | Medium | Prioritize core features first |
 
 ### Questions to Resolve
-- [ ] How should pagination work?
-- [ ] What's the fallback for missing images?
-- [ ] How to handle expired tokens?
+- How should pagination work?
+- What's the fallback for missing images?
+- How to handle expired tokens?
 
 
+<a id="10"></a>
 ## 📚 Resources & References
 ### Tutorials
 - [Tutorial name](link)
@@ -184,17 +204,19 @@ Describe how data moves through your app:
 - [Icon library](link)
 
 
+<a id="11"></a>
 ## 📝 Notes & Ideas
 Random thoughts, ideas, or things to remember:
 - 
 - 
 
+<a id="12"></a>
 ## 🔄 Next Steps
 Once planning is complete:
 1. ✅ Review and finalize all sections above
-2. 📋 Create actionable tasks in [TODO.md](TODO.md) based on this plan
+2. 📋 Create actionable tasks in [TODO](TODO.md) based on this plan
 3. 🚀 Begin implementation following the timeline
-4. 📝 Update [README.md](README.md) as features are completed
+4. 📝 Update [README](README.md) as features are completed
 
 **Last Updated:** [Date]  
 **Next Review:** [Date]

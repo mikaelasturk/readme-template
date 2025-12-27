@@ -15,26 +15,29 @@ Template to use for school projects
 Short, clear description of what the project does and why it exists.
 
 ## 📋 Table of Contents
-- [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
-- [About Project](#about)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Project Objectives](#objectives)
-- [Accessibility](#accessibility)
-- [Architecture](#architecture)
-  - [Folder Structure](#folder-structure)
-  - [Pages & Routes](#pages--routes)
-  - [Data Flow Overview](#data-flow-overview)
-- [Run Locally](#run)
-- [Roadmap](#roadmap)
-- [Author](#author)
-- [License](#license)
+- [Live Demo](#1)
+- [Screenshots](#2)
+- [About Project](#3)
+- [Tech Stack](#4)
+- [Features](#5)
+- [Project Objectives](#6)
+- [Accessibility](#7)
+- [Architecture](#8)
+  - [Folder Structure](#s1)
+  - [Pages & Routes](#s2)
+  - [Data Flow Overview](#s3)
+  - [API Usage](#s4)
+- [Run Locally](#9)
+- [Roadmap](#10)
+- [Author](#11)
+- [License](#12)
 
-## <a id="live-demo"></a> 🚀Live demo
+<a id="1"></a>
+## 🚀Live demo
 [Demo link](https://your-project.netlify.app/)
 
-## <a id="screenshots"></a>📷 Screenshots
+<a id="2"></a>
+## 📷 Screenshots
 Include one or more screenshots that show the main functionality and layout of the application.
 
 ### Screenshot 1 name
@@ -43,12 +46,14 @@ Include one or more screenshots that show the main functionality and layout of t
 
 Caption Screenshot 1 description.
 
-## <a id="about"></a>🔎 About Project
+<a id="3"></a>
+## 🔎 About Project
 Detailed project description.
 Describe the purpose of the project, what problem it solves, and the overall idea behind it.
 
 
-## <a id="tech-stack"></a>📦 Tech Stack
+<a id="4"></a>
+## 📦 Tech Stack
 List the main technologies, frameworks, and tools used in the project.
 - Frontend framework/library
 - Routing solution (if applicable)
@@ -57,23 +62,28 @@ List the main technologies, frameworks, and tools used in the project.
 - External APIs or services (if applicable)
 - Styling approach
 
-## <a id="features"></a> 🧠 Features
+<a id="5"></a>
+## 🧠 Features
 Outline the key features and functionality implemented in the application.
 
-## <a id="objectives"></a> 🎯 Project Objectives
+<a id="6"></a>
+## 🎯 Project Objectives
 Describe the main goals of the project and what you aimed to practice or demonstrate.
 
 ### Required conditions
 
 ### Stretch Goals (optional)
 
-## <a id="accessibility"></a> ♿ Accessibility
+<a id="7"></a>
+## ♿ Accessibility
 Explain how accessibility has been considered and which best practices are followed.
 
-## <a id="architecture"></a> Architecture
+<a id="8"></a>
+## Architecture
 Describe the overall structure of the application and how the codebase is organized.
 
-### <a id="folder-structure"></a> 🛠 Folder Structure
+<a id="s1"></a> 
+### 🛠 Folder Structure
 Provide an overview of how folders and files are structured.
 
 ```text
@@ -91,7 +101,8 @@ src/
     └── ???.jsx
 
 ```
-### <a id="pages--routes"></a> 🧭 Pages & Routes
+<a id="s2"></a> 
+### 🧭 Pages & Routes
 Describe the main pages in the application and how routing is handled.
 
 | Route | Description |
@@ -99,17 +110,20 @@ Describe the main pages in the application and how routing is handled.
 | /path | Description |
 | /path | Description |
 
-### <a id="data-flow-overview"></a> 🔄 Data Flow Overview
+<a id="s3"></a> 
+### 🔄 Data Flow Overview
 Explain how data is fetched, stored, and passed through the application.
 
 #### Page 1
 
 #### Page 2
 
+<a id=s4></a>
 ### 🔑 API Usage
 Describe how external APIs or services are used, including endpoints, authentication, and error handling.
 
-## <a id="run"></a> ▶️ Run Locally
+<a id="9"></a>
+## ▶️ Run Locally
 Provide instructions for how to set up and run the project on a local machine.
 
 ```bash
@@ -119,7 +133,8 @@ npm install
 npm run dev
 ```
 
-## <a id="roadmap"></a> 🚗 Roadmap
+<a id="10"></a>
+## 🚗 Roadmap
 Describe the planning process, implementation phase, and future improvements.
 
 ### 📂 Project Documentation
@@ -137,7 +152,7 @@ This project uses a structured workflow with interconnected documentation:
 ### Planning
 Brief description of initial planning and design decisions.
 Optional link to a planning document.
-<a href="/PLANNING.md">📄 PLANNING.md</a>
+[📄 PLANNING.md](PLANNING.md)
 
 ### Execution 
 Describe how the project was implemented, including architectural decisions, state management, and challenges encountered.
@@ -145,12 +160,14 @@ Describe how the project was implemented, including architectural decisions, sta
 ### Retrospect
 Summarize reflections, lessons learned, technical insights, and ideas for improvement.
 
-## <a id="author"></a> 🧑‍💻 Author
+<a id="11"></a>
+## 🧑‍💻 Author
 ### Mikaela Sturk
 -  [GitHub](https://www.github.com/mikaelasturk) 
 -  [LinkedIn](https://www.linkedin.com/in/mikaelasturk)
 
-## <a id="license"></a> 📄 License
+<a id="12"></a>
+## 📄 License
 State the license or usage conditions for the project.
 
 or//

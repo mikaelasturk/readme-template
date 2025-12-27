@@ -7,6 +7,17 @@
 
 This guide explains how to use **Todo Tree** extension in VS Code to link your code comments with your TODO.md file.
 
+## 📋 Table of Contents
+- [What This Does](#1)
+- [Writing TODO Comments in Your Code](#2)
+- [Connecting TODO Comments to TODO.md](#3)
+- [Using Todo Tree Sidebar](#4)
+- [Customize Todo Tree](#5)
+- [Complete Workflow Example](#6)
+- [Why This System Works](#7)
+- [Quick Start Checklist](#8)
+
+<a id="1"></a>
 ## 🎯 What This Does
 Instead of having TODOs scattered everywhere, Todo Tree:
 - ✅ Collects ALL TODO comments from your code
@@ -14,6 +25,7 @@ Instead of having TODOs scattered everywhere, Todo Tree:
 - ✅ Links them to your TODO.md file
 - ✅ Helps you track what needs to be done WHERE in your code
 
+<a id="2"></a>
 ## 📝 Writing TODO Comments in Your Code
 Todo Tree automatically detects these keywords in your code:
 
@@ -27,6 +39,7 @@ Todo Tree automatically detects these keywords in your code:
 // [x]: Completed task
 ```
 
+<a id="3"></a>
 ## 🔗 Connecting TODO Comments to TODO.md
 You can use a **reference system** to link code comments with your TODO.md:
 
@@ -57,6 +70,7 @@ You can use a **reference system** to link code comments with your TODO.md:
 // TODO: Add loading state - Tracked in TODO.md
 ```
 
+<a id="4"></a>
 ## 🌲 Step 4: Using Todo Tree Sidebar
 Once you have TODO comments in your code:
 
@@ -74,6 +88,7 @@ Once you have TODO comments in your code:
 - Use the search box at top of Todo Tree panel
 - Filter by keyword, file, or tag
 
+<a id="5"></a>
 ## ⚙️ Customize Todo Tree 
 Add this to your VS Code `settings.json`:
 
@@ -122,6 +137,7 @@ Add this to your VS Code `settings.json`:
 3. Paste the config above
 
 
+<a id="6"></a>
 ## 🔄 Complete Workflow Example
 ### 1. Plan in TODO.md:
 ```markdown
@@ -163,6 +179,7 @@ export function LoginForm() {
 
 ---
 
+<a id="7"></a>
 ## 🎯 Why This System Works
 ✅ **Quick overview**: Todo Tree shows ALL tasks from code  
 ✅ **Context in code**: Comments remind you what needs work  
@@ -171,6 +188,7 @@ export function LoginForm() {
 ✅ **Track progress**: Move from TODO → done in both places
 
 
+<a id="8"></a>
 ## 🚀 Quick Start Checklist
 - [ ] Install Todo Tree extension
 - [ ] Add a TODO comment in your code: `// TODO: Test comment`
